@@ -2,8 +2,8 @@
 public class Chapter05 {
 	public static void main(String[] args) {
 		/*プリミティブ型*/
-		long long1 = 12345;
-		double dl1 = 123.45;
+		long long1 = 10000000000L;
+		double dl1 = 123.45d;
 		boolean bl1 = true;
 
 		System.out.println(long1);
