@@ -15,5 +15,13 @@ public class Chapter15_1 {
     		return gcd(b,remain);
     	}
     	return b;
+
+    	/*カリキュラム回答
+    	 * b(余り)が0になった時のaが最大公約数
+        if (b == 0) {
+            return a;
+        }
+         再帰呼び出し
+        return gcd(b, a % b);*/
     }
 }
