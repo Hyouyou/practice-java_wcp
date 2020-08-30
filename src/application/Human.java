@@ -1,16 +1,14 @@
 package application;
 
 public class Human {
-	/*自分で考えてみた
+	/*自分で考えた内容
 	private String act = "蹴る";
 
 	public class HumanLeg{
-		public string Hello(){
+		public String hello(){
 			return act;
 		}
-	}
-
-	System.out.println(Hello);*/
+	}*/
 
 	//回答
 	public class HumanLeg {
