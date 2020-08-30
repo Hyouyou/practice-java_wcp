@@ -1,5 +1,7 @@
 package chapter;
 
+import chapter.practice.Character;
+
 public class Chapter05 {
 	public static void main(String[] args) {
 		/*プリミティブ型*/
